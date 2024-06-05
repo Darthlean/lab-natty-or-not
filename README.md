@@ -93,6 +93,7 @@ E aí, curtiu conhecer um pouco mais sobre o universo das IAs Generativas? Esper
 Não se esqueça de se inscrever no nosso podcast e compartilhar com os amigos! Eu sou Darthlean e esse foi o **Code Quest** dessa semana. Até a próxima, e que a força da IA esteja com você!
 
 ## 💭 Reflexão (Opcional)
+
 Foi algo de explodir a mente no sentido de ser uma imensa descoberta toda essa tecnologia estar disponível a todos!
 ```
 
